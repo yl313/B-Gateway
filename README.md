@@ -1,2 +1,1 @@
-# MyIC
-我用过的各种芯片,以及手册
+1.noting !just for test
